@@ -24,11 +24,29 @@
       h6 {
         padding-left: 218px;
       }
+      .canvas_container {
+        width: 100%;
+        position: relative;
+        padding: 50px 0;
+      }
+      #cqzhen_drawing {
+        width: 80vw;
+        height: 50vh;
+        background: #f5edd5;
+        position: absolute;
+        left: 50%;
+        right: 50%;
+        transform: translateX(-50%);
+      }
     </style>
   </head>
   <body>
     <h1>cqzhen blog</h1>
     <h3>welcome to cqzhen's drawing!</h3>
     <h6>...In the blood</h6>
+    <div class="canvas_container">
+      <canvas id="cqzhen_drawing"></canvas>
+    </div>
+    <script src="index.js" type="text/javascript"></script>
   </body>
 </html>
