@@ -1,4 +1,19 @@
 {
+  (function() {
+  
+   let test = 0;
+  
+   function main() {
+     if (test >= 1024) return;
+     window.requestAnimationFrame(main);
+     test++;
+     console.log(test);
+   }
+
+   main();
+
+  })();
+
   let canvas = document.getElementById('cqzhen_drawing');
   let canvas_widthHalf = canvas.width / 2;
   if (canvas.getContext) {
