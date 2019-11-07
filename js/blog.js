@@ -62,7 +62,7 @@
 			type: 7,
 			img: 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1573116308395&di=d15e873b4408869b940a5ef0b8bae8ae&imgtype=0&src=http://blog.chinaunix.net/attachment/201604/7/31111745_1459962266z0lF.png',
 			text: '进阶 Vim',
-			href: 'article/tool/vim'
+			href: 'article/tool/vim/'
 		}
 	];
 

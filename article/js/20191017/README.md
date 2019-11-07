@@ -1,3 +1,5 @@
+[返回导航页](https://cqzhen.github.io/blog.html "导航页面")
+
 # JS
 
 为实现一门客户端语言而生
