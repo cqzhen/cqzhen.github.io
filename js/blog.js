@@ -1,6 +1,22 @@
 (function(){
 	const blogData = [
 		{
+			title: '浏览器工作流程',
+			date: '2019-11-13',
+			type: 3,
+			img: 'https://s2.ax1x.com/2019/11/09/Me2v26.jpg',
+			text: '介绍浏览器发送一个请求的整个流程',
+			href: 'article/js/浏览器工作流程'
+		},
+		{
+			title: '识别 Array',
+			date: '2019-11-13',
+			type: 3,
+			img: 'https://s2.ax1x.com/2019/11/09/Me2v26.jpg',
+			text: '识别是否为 Array 的几种方法',
+			href: 'article/js/Array/识别Array'
+		},
+		{
 			title: '闲谈 Http',
 			date: '2019-11-09',
 			type: 3,
