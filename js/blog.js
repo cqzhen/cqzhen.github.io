@@ -1,6 +1,14 @@
 (function(){
 	const blogData = [
 		{
+			title: 'Nginx 基础',
+			date: '2019-11-18',
+			type: 6,
+			img: 'https://s2.ax1x.com/2019/11/18/M6s9Xj.jpg',
+			text: '介绍 Nginx 基础篇',
+			href: 'article/service/nginx/nginx基础'
+		},
+		{
 			title: '浏览器工作流程',
 			date: '2019-11-13',
 			type: 3,
