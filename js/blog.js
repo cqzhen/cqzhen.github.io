@@ -1,6 +1,14 @@
 (function(){
 	const blogData = [
 		{
+			title: 'Linux 基础',
+			date: '2019-11-22',
+			type: 7,
+			img: 'https://s2.ax1x.com/2019/11/22/M7uSzQ.jpg',
+			text: 'Linux 基础',
+			href: 'article/system/Linux命令'
+		},
+		{
 			title: 'Nginx 配置 Https',
 			date: '2019-11-21',
 			type: 6,
@@ -113,7 +121,8 @@
 		JS: 3,
 		HTML: 4,
 		CSS: 5,
-		Server: 6
+		Server: 6,
+		System: 7
 	};
 
 	function getType() {
