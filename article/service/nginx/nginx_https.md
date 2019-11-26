@@ -7,7 +7,8 @@
 下载证书后解压，会看到两个文件，一个是 .pem 后缀，另一个是 .key 后缀。
 ### Nginx 开启 Https 的配置
 >1. 到服务器找到 Nginx 的配置，找到其中监听 443 端口的服务配置。（要注意，http 用的是 80 端口，而 https 用的 443 端口，所以找到监听 443 的端口服务配置）
->2. 其中 ssl_certificate、ssl_certificate_key 为你的密钥和公钥，你需要从你本地下载的上传到你的服务器相应的地方（具体 Nginx 配置阿里云上有教程)
+>2. 其中 ssl_certificate、ssl_certificate_key 为你的密钥和公钥，你需要从你本地下载的上传到你的服务器相应的地方[具体 Nginx 配置 Https 阿里云上有教程](https://help.aliyun.com/document_detail/98728.html?spm=5176.2020520163.0.0.55c556a7xW6E2C '阿里 Nginx 配置 Htpps')
+
 >3. 配置好，执行 nginx -s reload  (重启 nginx），结果报错了：
 nginx: [emerg] unknown directive "ssl"
 搜了一波，原因是我没有配置 --with-http_ssl_module 这个模块。但是发现安装这个模块需要去 Nginx 解压包的文件下执行 （瞬间懵逼了，我记得我安装好 Nginx 后我就把解压包和压缩包都删掉了...)

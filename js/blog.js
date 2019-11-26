@@ -1,6 +1,22 @@
 (function(){
 	const blogData = [
 		{
+			title: 'Linux install mysql',
+			date: '2019-11-26',
+			type: 6,
+			img: 'https://s2.ax1x.com/2019/11/27/Qpea1s.png',
+			text: '介绍 Linux 系统安装 mysql',
+			href: 'article/service/mysql/linuxInstallMysql'
+		},
+		{
+			title: '良言',
+			date: '2019-11-26',
+			type: 1,
+			img: 'https://s2.ax1x.com/2019/11/09/MecDit.jpg',
+			text: '汇总一些良言精句',
+			href: 'article/life/perfect'
+		},
+		{
 			title: 'Linux 基础',
 			date: '2019-11-22',
 			type: 7,
