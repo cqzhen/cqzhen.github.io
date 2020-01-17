@@ -1,6 +1,13 @@
 [返回导航页](https://cqzhen.github.io/blog.html "导航页面")
 # vim
 
+## 各个操作系统 vim
+
+  windows:
+  cd ~ 
+  .vim
+  vimrc
+
 ## vim 配置
   
   let skip_defaults_vim=1

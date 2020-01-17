@@ -1,5 +1,12 @@
 # vim
 
+## 各个操作系统 vim
+
+  windows:
+  cd ~ 
+  .vim
+  vimrc
+
 ## vim 配置
   
   let skip_defaults_vim=1

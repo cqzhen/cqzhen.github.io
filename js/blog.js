@@ -1,6 +1,14 @@
 (function(){
 	const blogData = [
 		{
+			title: '各个系统命令',
+			date: '20220-01-17',
+			type: 7,
+			img: 'https://s2.ax1x.com/2019/11/22/M7uSzQ.jpg',
+			text: '介绍各个系统通用方法的不同命令',
+			href: 'article/system/各系统命令'
+		},
+		{
 			title: 'Linux install mysql',
 			date: '2019-11-26',
 			type: 6,
