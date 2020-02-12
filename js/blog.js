@@ -1,12 +1,36 @@
 (function(){
 	const blogData = [
 		{
+			title: 'Mac 进阶 IIS',
+			date: '2020-02-12',
+			type: 7,
+			img: 'https://s2.ax1x.com/2020/02/12/1HfCnO.jpg',
+			text: 'mac 上面部署 IIS 服务的替代品，mono、nginx',
+			href: 'article/system/mono'
+		},
+		{
 			title: '各个系统命令',
-			date: '20220-01-17',
+			date: '2020-01-17',
 			type: 7,
 			img: 'https://s2.ax1x.com/2019/11/22/M7uSzQ.jpg',
 			text: '介绍各个系统通用方法的不同命令',
 			href: 'article/system/各系统命令'
+		},
+		{
+			title: '闲谈 Vue',
+			date: '2019-12-12',
+			type: 3,
+			img: 'https://s2.ax1x.com/2019/11/09/Me2v26.jpg',
+			text: '进阶 Vue',
+			href: 'article/js/闲谈Vue'
+		},
+		{
+			title: 'Git',
+			date: '2019-12-10',
+			type: 7,
+			img: 'https://s2.ax1x.com/2020/02/12/1HWr1P.png',
+			text: 'git 常用配置以及命令',
+			href: 'article/git/20191017'
 		},
 		{
 			title: 'Linux install mysql',

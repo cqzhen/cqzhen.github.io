@@ -2,3 +2,15 @@
 
 # 闲谈 Vue
 
+## Start
+1. Install Vue CLI
+```npm install -g @vue/cli
+# or
+yarn global add @vue/cli
+```
+2. Create project
+```vue create my-project
+# OR
+vue ui
+```
+

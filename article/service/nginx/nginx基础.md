@@ -17,5 +17,7 @@
 ps aux | grep nginx
 ### 查看端口号
 netstat -tlnp
+lsof -i:port
+netstat -ap | grep port
 
 
