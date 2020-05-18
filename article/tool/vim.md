@@ -4,6 +4,15 @@
 ## 各个操作系统 vim
 
   windows:
+  
+  vi ~/.vimrc 
+  
+  mac:
+  
+  vi ~/.vimrc 
+  
+  linux:
+  
   vi ~/.vimrc 
 
 ## vim 配置

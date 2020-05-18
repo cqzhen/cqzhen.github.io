@@ -12,6 +12,22 @@
 
 	const blogData = [
 		{
+			title: 'JSError',
+			date: '2020-05-18',
+			type: 3,
+			img: 'https://s2.ax1x.com/2019/11/09/Me2v26.jpg',
+			text: '介绍 JS 异常处理',
+			href: 'article/js/JSError'
+		},
+		{
+			title: 'Linux 配置',
+			date: '2020-05-18',
+			type: 7,
+			img: 'https://s2.ax1x.com/2019/11/22/M7uSzQ.jpg',
+			text: '介绍 Linux 各种配置文件',
+			href: 'article/system/linux配置'
+		},
+		{
 			title: 'Mac 进阶 IIS',
 			date: '2020-02-12',
 			type: 7,
