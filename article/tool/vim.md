@@ -4,9 +4,7 @@
 ## 各个操作系统 vim
 
   windows:
-  cd ~ 
-  .vim
-  vimrc
+  vi ~/.vimrc 
 
 ## vim 配置
   

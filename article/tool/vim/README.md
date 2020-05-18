@@ -2,6 +2,11 @@
 
 # vim
 
+## 各个操作系统 vim
+
+  windows:
+  vi ~/.vimrc 
+
 ## vim 配置 
   
   let skip_defaults_vim=1
@@ -9,8 +14,6 @@
   syntax on
   
   set number
-  
-  set tabstop=2
   
   set smartindent
   
@@ -21,6 +24,8 @@
   set shiftwidth=0
   
   set expandtab
+  
+  set tabstop=2
   
   " imap { {}<ESC>i<CR><ESC>V<O
   

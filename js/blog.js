@@ -1,4 +1,15 @@
 (function(){
+	const blogType = {
+		All: 0,
+		Life: 1,
+		Book: 2,
+		JS: 3,
+		HTML: 4,
+		CSS: 5,
+		Server: 6,
+		System: 7
+	};
+
 	const blogData = [
 		{
 			title: 'Mac 进阶 IIS',
@@ -161,17 +172,6 @@
 			href: 'article/js/闲谈Generator.md'
 		}
 	];
-
-	const blogType = {
-		All: 0,
-		Life: 1,
-		Book: 2,
-		JS: 3,
-		HTML: 4,
-		CSS: 5,
-		Server: 6,
-		System: 7
-	};
 
 	function getType() {
 		let types = Object.keys(blogType);
