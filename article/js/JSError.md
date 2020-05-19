@@ -16,13 +16,13 @@
 
     1. try catch 不能捕获代码块里的异步方法里面抛的异常
 
-    ```
-    try {
-      return Promise((resolve, reject) => {
-          reject('出错了');
-        }).catch(err=> { throw new Error(err.message) });
-    } catch (err) {
-      // 并不能打印出，因为不能捕获异步方法抛出的异常
-      console.log(err.message);
-    }
-    ```
+```
+try {
+  return new Promise((resolve, reject) => {
+      reject('出错了');
+    }).catch(err=> { throw new Error(err.message) });
+} catch (err) {
+  // 并不能打印出，因为不能捕获异步方法抛出的异常
+  console.log(err.message);
+}
+```
