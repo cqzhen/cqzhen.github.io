@@ -12,6 +12,14 @@
 
 	const blogData = [
 		{
+			title: 'MongoDB',
+			date: '2020-05-22',
+			type: 6,
+			img: 'https://s2.ax1x.com/2019/11/27/Qpea1s.png',
+			text: 'MongoDB 初始',
+			href: 'article/service/mongoDB/mongo'
+		},
+		{
 			title: 'JSError',
 			date: '2020-05-18',
 			type: 3,
