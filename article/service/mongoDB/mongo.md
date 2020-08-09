@@ -21,20 +21,38 @@
 
 ### 导出导入
 
+    参数说明：
+　　　　-h 指明数据库宿主机的IP
+　　　　--port 指明数据库的端口
+　　　　-u 指明数据库的用户名
+　　　　-p 指明数据库的密码
+　　　　-d 指明数据库的名字
+　　　　-c 指明collection的名字
+　　　　-o 指明到要导出的文件名
+　　　　-q 指明导出数据的过滤条件
+    
     导出：mongoexport
 
     导入：mongoimport
 
-    备份：mongodump
+    备份：mongodump-> mongodump targetDB（目标数据库） -o backupDB（备份数据库，备份位置可自己选择）
 
-    恢复：mongorestore
+    恢复：mongorestore-> mongorestore backupDB
 
 ### 使用
 
-    show databases || show dbs;
+    展示所有数据库：show databases || show dbs;
 
-    use db
+    切换当前数据库：use db
+    
+    为当前数据库创建表：db.createCollection('表名');  // table 在 mongoDB 里叫 collections
+    
+    删除当前数据库表：db.表名.drop();
 
-    show tables;
+    展示当前数据库所有表：show tables || show collections;
 
-    db.table.find() ...   (注意 mongdb 增删查改语法，不同与 sql）
+    为当前数据库某 table 表增加一条（如果是对象数组：增加多条）数据：db.table.insert({name: 'test', ...}) ...   (注意 mongdb 增删查改语法，不同与 sql）
+    
+    为当前数据库某 table 表删除数据（可以加个整数参数，代表删除几行）：db.table.remove({name: 'test', ..., n}) ...   (注意 mongdb 增删查改语法，不同与 sql）
+    
+    查询当前数据库某 table 表：db.table.find() ...   (注意 mongdb 增删查改语法，不同与 sql）
