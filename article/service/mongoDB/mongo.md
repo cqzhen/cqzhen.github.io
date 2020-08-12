@@ -21,17 +21,6 @@
 
 ### 导出导入
 
-    参数说明：
-```key
-　　　　-h 指明数据库宿主机的IP
-　　　　--port 指明数据库的端口
-　　　　-u 指明数据库的用户名
-　　　　-p 指明数据库的密码
-　　　　-d 指明数据库的名字
-　　　　-c 指明collection的名字
-　　　　-o 指明到要导出的文件名
-　　　　-q 指明导出数据的过滤条件
-```  
     导出：mongoexport
 
     导入：mongoimport
@@ -43,6 +32,8 @@
         mongorestore -h <hostname><:port> -d dbname <path>
 
         mongorestore -d dbname directory(将要恢复的数据地址)
+    
+    参数说明：
 
 ```key
         --host <:port>, -h <:port>：ongoDB所在服务器地址，默认为： localhost:27017
