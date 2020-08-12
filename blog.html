@@ -47,7 +47,12 @@
 				height: calc(100% - 200px);
 		    overflow: scroll;
 				-webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+        -ms-overflow-style: none;
 			}
+			.blogContext::-webkit-scrollbar {
+        display: none;
+      }
 			.blogContext > div {
   		  background: #007a80;
 				padding-left: 30px;
