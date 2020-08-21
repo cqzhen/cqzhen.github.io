@@ -12,6 +12,14 @@
 
 	const blogData = [
 		{
+			title: 'Node_Work',
+			date: '2020-08-18',
+			type: 3,
+			img: 'https://s2.ax1x.com/2019/11/09/Me2v26.jpg',
+			text: '介绍 Node 工作中经验',
+			href: 'article/js/node/work_node.md'
+		},
+		{
 			title: 'MongoDB',
 			date: '2020-05-22',
 			type: 6,

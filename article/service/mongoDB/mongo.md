@@ -25,7 +25,7 @@
 
     导入：mongoimport
 
-    备份：mongodump-> mongodump targetDB（目标数据库） -o backupDB（备份数据库，备份位置可自己选择）
+    备份：mongodump-> mongodump -d targetDB（目标数据库） -o backupDB（备份数据库，备份位置可自己选择）
 
     恢复：mongorestore
 
