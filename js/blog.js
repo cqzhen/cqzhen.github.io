@@ -17,7 +17,7 @@
 			type: 3,
 			img: 'https://s2.ax1x.com/2019/11/09/Me2v26.jpg',
 			text: '介绍 Node 工作中经验',
-			href: 'article/js/node/work_node.md'
+			href: 'article/js/node/work_node'
 		},
 		{
 			title: 'MongoDB',
@@ -177,7 +177,7 @@
 			type: 3,
 			img: 'https://s2.ax1x.com/2019/11/09/Me2v26.jpg',
 			text: '主要介绍 Js 基础内容',
-			href: 'article/js/Js基础篇.md'
+			href: 'article/js/Js基础篇'
 		},
 		{
 			title: '闲谈 Promise',
@@ -185,7 +185,7 @@
 			type: 3,
 			img: 'https://s2.ax1x.com/2019/11/09/Me2v26.jpg',
 			text: '主要介绍 Promise 基础内容',
-			href: 'article/js/闲谈Promise.md'
+			href: 'article/js/闲谈Promise'
 		},
 		{
 			title: '闲谈 Async',
@@ -193,7 +193,7 @@
 			type: 3,
 			img: 'https://s2.ax1x.com/2019/11/09/Me2v26.jpg',
 			text: '主要介绍 Async 基础内容',
-			href: 'article/js/闲谈Async.md'
+			href: 'article/js/闲谈Async'
 		},
 		{
 			title: '闲谈 Generator',
@@ -201,7 +201,7 @@
 			type: 3,
 			img: 'https://s2.ax1x.com/2019/11/09/Me2v26.jpg',
 			text: '主要介绍 Generator 基础内容',
-			href: 'article/js/闲谈Generator.md'
+			href: 'article/js/闲谈Generator'
 		}
 	];
 
