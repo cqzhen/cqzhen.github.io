@@ -12,6 +12,14 @@
 
 	const blogData = [
 		{
+			title: 'GO Code',
+			date: '2020-08-24',
+			type: 6,
+			img: 'https://s1.ax1x.com/2020/08/24/dBHHI0.jpg',
+			text: 'Go Code',
+			href: 'article/service/go/code'
+		},
+		{
 			title: 'Node_Work',
 			date: '2020-08-18',
 			type: 3,
