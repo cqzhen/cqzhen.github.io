@@ -12,6 +12,14 @@
 
 	const blogData = [
 		{
+			title: '事件',
+			date: '2020-08-25',
+			type: 3,
+			img: 'https://s2.ax1x.com/2019/11/09/Me2v26.jpg',
+			text: '介绍 Event',
+			href: 'article/js/Event'
+		},
+		{
 			title: 'GO Code',
 			date: '2020-08-24',
 			type: 6,
