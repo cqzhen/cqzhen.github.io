@@ -1,11 +1,10 @@
-max-width: 600px;font-family: serif
 [返回导航页](https://cqzhen.github.io/blog.html "导航页面")
 
 <img style="display:inline-block;width:100%;" src="https://s2.ax1x.com/2019/11/09/MecDit.jpg" />
 
 <h2 style="text-align:center">甲方乙方</h2>
 
-<div style="max-width: 600px;font-family: serif;padding: 50px 30px;text-align:left;font-size:13px;">说起甲方乙方，总有一种莫名的感觉。瞬间想起电影里妓院的场面。乙方管事的如同老鸨，程序员如果管家，程序员手里面各个版本的系统如同姑娘。而甲方的地位就不用说了。对程序员手里面的各个版本的“姑娘’，就只能被甲方挑来挑去，甚至还指指戳戳。</div>
+<div style="max-width: 600px;font-family: serif;padding: 50px 30px;text-align:left;font-size:13px;">说起甲方乙方，总有一种莫名的感觉。瞬间想起电影里妓院的场面。乙方管事的如同老鸨，程序员如同管家，程序员手里面各个版本的系统如同姑娘。而甲方的地位就不用说了。对程序员手里面的各个版本的“姑娘’，就只能被甲方挑来挑去，甚至还指指戳戳。</div>
 <div style="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">重温下场景：</div>
 <div style="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">管事的："xx总，您看看我们这几个优化过的版本。"</div>
 <div style="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">xx总："嗯嗯，都发过来吧。"</div>
