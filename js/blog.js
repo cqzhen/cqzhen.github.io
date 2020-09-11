@@ -12,6 +12,14 @@
 
 	const blogData = [
 		{
+			title: '甲方乙方',
+			date: '2020-09-11',
+			type: 1,
+			img: 'https://s2.ax1x.com/2019/11/09/MecDit.jpg',
+			text: '甲方乙方的江湖故事',
+			href: 'article/life/duanzi/jiayi'
+		},
+		{
 			title: '事件',
 			date: '2020-08-25',
 			type: 3,
