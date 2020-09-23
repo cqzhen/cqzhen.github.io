@@ -16,6 +16,14 @@
 			date: '2020-09-23',
 			type: 1,
 			img: 'https://s1.ax1x.com/2020/09/23/wj143D.jpg',
+			text: '记录食材',
+			href: 'article/life/baby/shipu'
+		},
+		{
+			title: 'new life,new life',
+			date: '2020-09-23',
+			type: 1,
+			img: 'https://s1.ax1x.com/2020/09/23/wj143D.jpg',
 			text: '记录三餐',
 			href: 'article/life/baby/babylife'
 		},
