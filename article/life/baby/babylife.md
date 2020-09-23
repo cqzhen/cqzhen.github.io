@@ -7,7 +7,7 @@
 </div>
 
 <div id="20200923">
-  <div id="202009231" sstyle="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">
+  <div id="202009231" style="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">
   早上：<br/>主食：粥和馒头 <br/>菜谱：大米鸡蛋上海青菜叶粥，半个馒头，蒜香胡萝卜
   </div>
   <div id="202009232" style="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">
