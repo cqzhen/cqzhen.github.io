@@ -9,7 +9,7 @@
   不能吃的主食：米粉/
   </div>
   <div id="202009232" style="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">
-  蔬菜：胡萝卜/冬瓜/土豆/山药/玉米/藕 <br />
+  蔬菜：胡萝卜/冬瓜/土豆/山药/玉米/藕/花生 <br />
   不能吃的蔬菜：木耳/
   </div>
   <div id="202009232" style="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">
