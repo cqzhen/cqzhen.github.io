@@ -26,6 +26,21 @@
   <div id="202009242" style="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">
   中午：大米蒜香鸡胸肉胡萝卜 <br/>主食：大米 <br/>菜谱：蒜香鸡胸肉胡萝卜
   </div>
+  <div id="202009232" style="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">
+  晚饭：大米鸡蛋上海青菜叶粥 <br/>主食：大米鸡蛋上海青菜叶粥 <br/>菜谱：土豆丝
+  </div>
   <p style="text-align:right">cqzhen--2020、09、24</p>
 </div>
 
+<div id="20200925">
+  <div id="202009241" style="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">
+  早上：无
+  </div>
+  <div id="202009242" style="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">
+  中午：无
+  </div>
+  <div id="202009232" style="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">
+  晚饭：
+  </div>
+  <p style="text-align:right">cqzhen--2020、09、25</p>
+</div>
