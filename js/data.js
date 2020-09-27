@@ -1,4 +1,4 @@
-window.blogObj = {
+const blogObj = {
   blogType: {
 		All: 0,
 		Life: 1,

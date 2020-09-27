@@ -71,4 +71,4 @@
 
 	init();
 
-}(window.blogObj))
+}(blogObj))
