@@ -26,21 +26,48 @@
   <div id="202009242" style="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">
   中午：大米蒜香鸡胸肉胡萝卜 <br/>主食：大米 <br/>菜谱：蒜香鸡胸肉胡萝卜
   </div>
-  <div id="202009232" style="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">
+  <div id="202009243" style="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">
   晚饭：大米鸡蛋上海青菜叶粥 <br/>主食：大米鸡蛋上海青菜叶粥 <br/>菜谱：土豆丝
   </div>
   <p style="text-align:right">cqzhen--2020、09、24</p>
 </div>
 
 <div id="20200925">
-  <div id="202009241" style="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">
+  <div id="202009251" style="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">
   早上：无
   </div>
-  <div id="202009242" style="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">
+  <div id="202009252" style="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">
   中午：无
   </div>
-  <div id="202009232" style="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">
+  <div id="202009253" style="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">
   晚饭：
   </div>
   <p style="text-align:right">cqzhen--2020、09、25</p>
 </div>
+
+<div id="20200926">
+  <div id="202009261" style="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">
+  早上：粥/红薯/山药/花生
+  </div>
+  <div id="202009262" style="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">
+  中午：大米/蒜蓉基围虾/鲫鱼豆腐汤/胡罗卜
+  </div>
+  <div id="202009263" style="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">
+  晚饭：洋葱鸡蛋炒饭（中午剩的大米）/鲫鱼豆腐汤（中午剩的）
+  </div>
+  <p style="text-align:right">cqzhen--2020、09、26</p>
+</div>
+
+<div id="20200927">
+  <div id="202009271" style="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">
+  早上：无
+  </div>
+  <div id="202009272" style="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">
+  中午：
+  </div>
+  <div id="202009273" style="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">
+  晚饭：
+  </div>
+  <p style="text-align:right">cqzhen--2020、09、27</p>
+</div>
+
