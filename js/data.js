@@ -1,4 +1,4 @@
-const blogObj = {
+window.blogObj = {
   blogType: {
 		All: 0,
 		Life: 1,
@@ -242,5 +242,5 @@ const blogObj = {
 			text: '主要介绍 Generator 基础内容',
 			href: 'article/js/闲谈Generator'
 		}
-	];
+	]
 }

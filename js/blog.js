@@ -1,5 +1,3 @@
-document.write("<script language=javascript src='./data.js'></script>");
-
 (function(blogObj){
 	let blogType = 	blogObj.blogType;
   let blogData = blogObj.blogData;
@@ -73,4 +71,4 @@ document.write("<script language=javascript src='./data.js'></script>");
 
 	init();
 
-}(blogObj))
+}(window.blogObj))
