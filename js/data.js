@@ -11,6 +11,14 @@ const blogObj = {
 	},
   blogData: [
 		{
+			title: 'Node PM2',
+			date: '2020-09-30',
+			type: 6,
+			img: 'https://pm2.keymetrics.io/assets/pm2-logo-1.png',
+			text: 'PM2 上手',
+			href: 'article/service/node/pm2'
+		},
+		{
 			title: 'new life,new life',
 			date: '2020-09-23',
 			type: 1,
