@@ -19,6 +19,14 @@ const blogObj = {
 			href: 'article/service/node/pm2'
 		},
 		{
+			title: 'WEB 工具',
+			date: '2020-09-27',
+			type: 7,
+			img: 'https://pic.downk.cc/item/5f74316e160a154a67c0f4d7.png',
+			text: 'WEB 工具',
+			href: 'article/tool/web'
+		},
+		{
 			title: 'new life,new life',
 			date: '2020-09-23',
 			type: 1,
