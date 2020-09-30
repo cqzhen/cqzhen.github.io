@@ -71,3 +71,29 @@
   <p style="text-align:right">cqzhen--2020、09、27</p>
 </div>
 
+<div id="20200929">
+  <div id="202009291" style="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">
+  早上：<br/>主食：粥 <br/>菜谱：大米鸡蛋上海青菜叶粥（糊了) 橘子 茄子
+  </div>
+  <div id="202009292" style="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">
+  中午：大米茄子基围虾 <br/>主食：大米 <br/>菜谱：红烧茄子/基围虾/橘子 
+  </div>
+  <div id="202009293" style="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">
+  晚饭：大米红烧土豆块 <br/>主食：大米 <br/>菜谱：红烧土豆 葡萄 抽经痛
+  </div>
+  <p>睡觉前抽经通：怀疑葡萄吃多</p>
+  <p style="text-align:right">cqzhen--2020、09、29</p>
+</div>
+
+<div id="20200930">
+  <div id="202009301" style="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">
+  早上：<br/>主食：粥 <br/>菜谱：大米鸡蛋上海青菜叶粥 葡萄/香蕉
+  </div>
+  <div id="202009302" style="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">
+  中午：大米洋葱鸡胸肉土豆块 <br/>主食：大米 <br/>菜谱：洋葱鸡胸肉土豆块/橘子
+  </div>
+  <div id="202009303" style="max-width: 600px;font-family: serif;padding: 30px;text-align:left;font-size:20px;">
+  晚饭：
+  </div>
+  <p style="text-align:right">cqzhen--2020、09、30</p>
+</div>
