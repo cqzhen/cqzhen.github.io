@@ -10,6 +10,16 @@ const blogObj = {
 		System: 7
 	},
   blogData: [
+    /*
+		{
+			title: '美国宫斗剧之-',
+			date: '2020-11-05',
+			type: 1,
+			img: 'https://s2.ax1x.com/2019/11/09/MegI7d.jpg',
+			text: '段子来源于生活，它是现实生活中某个阶段的真实写照，只不过它藏在文字下边',
+			href: 'article/life/duanzi/meiguo1'
+		},
+    */
 		{
 			title: 'Node PM2',
 			date: '2020-09-30',
@@ -26,6 +36,7 @@ const blogObj = {
 			text: 'WEB 工具',
 			href: 'article/tool/web'
 		},
+    /*
 		{
 			title: 'new life,new life',
 			date: '2020-09-23',
@@ -50,6 +61,7 @@ const blogObj = {
 			text: '甲方乙方的江湖故事',
 			href: 'article/life/duanzi/jiayi'
 		},
+    */
 		{
 			title: '事件',
 			date: '2020-08-25',
@@ -73,6 +85,14 @@ const blogObj = {
 			img: 'https://s2.ax1x.com/2019/11/09/Me2v26.jpg',
 			text: '介绍 Node 工作中经验',
 			href: 'article/js/node/work_node'
+		},
+		{
+			title: 'Mysql',
+			date: '2020-07-26',
+			type: 6,
+			img: 'https://s2.ax1x.com/2019/11/27/Qpea1s.png',
+			text: '介绍 mysql 基础',
+			href: 'article/service/mysql/mysql'
 		},
 		{
 			title: 'MongoDB',

@@ -31,6 +31,17 @@
     - systemctl enable mysqld #设置开机启动
     - systemctl status mysqld #查看 MySQL Server 状态
 7. 修改初始密码：ALTER USER 'root'@'localhost' IDENTIFIED BY 'newpassword'
-8. 创建基于 root 的用户：GRANT ALL PRIVILEGES ON * . * TO 'newuser'@'localhost'
+8. 创建基于 root 的用户：CREATE USER 'newuser'@'localhost' IDENTIFIED BY 'root';
+9. 修改初始密码：ALTER USER 'newuser'@'localhost' IDENTIFIED BY 'newpassword'
+10. 给用户 newuser 分配权限：GRANT ALL PRIVILEGES ON *.* TO 'newuser'@'localhost'
+
+## windows install mysql
+
+1. [一定要下载和自己系统版本相对应的](https://dev.mysql.com/downloads/installer/)
+2. 安装完成：
+      cmd 启动 mysql 服务：net start mysql 
+      可视化启动 mysql 服务：计算机管理 -> 服务 -> MySQL -> 右键启动服务
+3. 进入数据库：mysql -u root -p
+4. 待写关于 windows gitbash 启动 mysql，winpty ......
 
 ### 完毕！

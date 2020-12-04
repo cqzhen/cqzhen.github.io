@@ -24,11 +24,14 @@
 >>1. pm2 init -> ecosystem.config.js
 >>2. 修改 ecosystem.config.js 入口文件: script
 >>3. 添加各种环境 （命名规则 env_ 开头)
->>4. 启动服务 （也就是启动配置文件）：pm2 start ecosystem.config.js
+>>4. 启动服务 （也就是启动配置文件）：pm2 start ecosystem.config.js --env local
 
 
 ```
 env: {
+  NODE_ENV: 'development'
+},
+env_local: {
   NODE_ENV: 'development'
 },
 env_uat: {
