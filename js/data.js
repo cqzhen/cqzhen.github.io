@@ -10,6 +10,14 @@ const blogObj = {
 		System: 7
 	},
   blogData: [
+		{
+			title: 'Create npm package',
+			date: '2020-12-08',
+			type: 3,
+			img: 'https://s3.ax1x.com/2020/12/08/rpvm7j.png',
+			text: '介绍 npm 创建包',
+			href: 'article/js/npm/create_npm_package'
+		},
     /*
 		{
 			title: '美国宫斗剧之-',
