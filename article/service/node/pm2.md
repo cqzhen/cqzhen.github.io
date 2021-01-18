@@ -41,3 +41,20 @@ env_production: {
   NODE_ENV: 'production'
 }
 ```
+
+### 自动重启（代码更新） PM2
+
+    1. pm2 start app.js --watch (待测试：假如项目里面有文件在跑任务更新是否需要慎重气用）
+
+    2. --ignore-watch （在问题 1 里面可以试试 --ignore-watch）
+
+### 配置电脑重启自动重启 PM2
+
+    1. pm2 unstartup
+
+    2. pm2 save
+
+    3. pm2 startup
+
+    4. 将 3 产生的输出命令复制并贴到输入窗口然后执行
+

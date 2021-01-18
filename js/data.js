@@ -11,6 +11,22 @@ const blogObj = {
 	},
   blogData: [
 		{
+			title: 'Linux Firewalld',
+			date: '2021-01-18',
+			type: 7,
+			img: 'https://s2.ax1x.com/2019/11/18/M6s9Xj.jpg',
+			text: 'Linux Firewalld',
+			href: 'article/system/linux_firewalld'
+		},
+		{
+			title: 'Linux 重启自启动 nginx',
+			date: '2021-01-18',
+			type: 7,
+			img: 'https://s2.ax1x.com/2019/11/18/M6s9Xj.jpg',
+			text: 'Linux 重启自启动 nginx',
+			href: 'article/system/linux_nginx'
+		},
+		{
 			title: 'Create npm package',
 			date: '2020-12-08',
 			type: 3,
