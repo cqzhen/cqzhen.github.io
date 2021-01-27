@@ -11,6 +11,14 @@ const blogObj = {
 	},
   blogData: [
 		{
+			title: 'Node_ENV',
+			date: '2021-01-27',
+			type: 3,
+			img: 'https://s2.ax1x.com/2019/11/09/Me2v26.jpg',
+			text: '介绍项目打包时如何利用 Node 环境变量',
+			href: 'article/js/node/node_env'
+		},
+		{
 			title: 'Linux Firewalld',
 			date: '2021-01-18',
 			type: 7,
