@@ -81,3 +81,36 @@ test(1).then(res => test(2)).then(res => testError()).then(res => test(3)).catch
 // Error:出错了
 // Promise {<resolved>: undefined}
 ```
+
+## 错误类型
+
+[错误类型](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Error "Error Type")
+
+1. EvalError
+
+  创建一个 error 实列，表示错误的原因：与 eval() 有关
+
+2. InternalError
+
+  创建一个代表 Javascript 引擎内部错误的异常抛出的实例。如 “递归太多”
+
+3. RangeError
+
+  创建一个 error 实例，表示错误的原因：数值变量或参数超出其有效范围。
+
+4. ReferenceError
+
+  创建一个 error 实例，表示错误的原因：无效引用。
+
+5. SyntaxError
+
+  创建一个 error 实例，表示错误的原因：eval() 在解析代码的过程中发生的语法错误。
+
+6. TypeError
+
+  创建一个 error 实例，表示错误的原因：变量和参数不属于有效类型。
+
+7. URIError
+
+  创建一个 error 实例，表示错误的原因：给 encodeURI() 或 decodeURI() 传递的参数无效。
+

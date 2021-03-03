@@ -36,3 +36,7 @@ Boolean 对象覆盖了 Object 对象的  toString 方法。并没有继承 Obje
 [Date.prototype.toString](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Date/toString "Date toString")
 Date对象覆盖了 Object 对象的 toString() 方法；它不是继承自 Object.prototype.toString()。对于  Date 对象，toString() 方法返回一个表示该对象的字符串。该 toString 方法总是返回一个美式英语日期格式的字符串。
 
+# Error toString
+
+[Error.prototype.toString](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Error/toString "Error toString")
+Error 对象覆盖了 Object.prototype.toString() 方法。toString() 方法返回一个指定的错误对象（Error object）的字符串表示。
