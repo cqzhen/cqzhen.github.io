@@ -11,6 +11,22 @@ const blogObj = {
 	},
   blogData: [
 		{
+			title: '告诫书',
+			date: '2021-03-15',
+			type: 1,
+			img: 'https://s2.ax1x.com/2019/11/09/MecDit.jpg',
+			text: '告诫自己的一些警言',
+			href: 'article/life/warningletter'
+		},
+		{
+			title: 'shell bat',
+			date: '2021-03-10',
+			type: 6,
+			img: 'https://s3.ax1x.com/2021/03/15/6DZCz6.jpg',
+			text: '介绍 shell 脚本 bat',
+			href: 'article/service/shell/shell_bat'
+		},
+		{
 			title: '时区',
 			date: '2021-03-03',
 			type: 7,
