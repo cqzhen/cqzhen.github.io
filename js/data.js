@@ -11,6 +11,14 @@ const blogObj = {
 	},
   blogData: [
 		{
+			title: 'Eslint',
+			date: '2021-03-23',
+			type: 3,
+			img: 'https://s2.ax1x.com/2019/11/09/Me2v26.jpg',
+			text: '介绍 Eslint',
+			href: 'article/js/eslint'
+		},
+		{
 			title: '告诫书',
 			date: '2021-03-15',
 			type: 1,
