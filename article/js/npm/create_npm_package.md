@@ -15,7 +15,9 @@
 
     1. npm link     (在包项目目录下执行 npm  link, 会产生一个链接，类似：../project/yourpackage/ -> ../yourpackage)
     
-    2. 创建一个本地项目，然后引入你的本地包（也就是 important package from 'yourpackage' 你的 npm link）
+    2. 创建一个本地项目，然后引入你的本地包，在根目录下执行 npm link yourpackage（也就是 important package from 'yourpackage' 你的 npm link）
+    
+    3. 引入本地包成功后会看到提示：本地项目加载的依赖包 -> npm 包路径 -> 本地包路径
 
 ```
 
