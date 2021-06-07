@@ -8,6 +8,11 @@
 
 批处理(Batch)，也称为批处理脚本。顾名思义，批处理就是对某对象进行批量的处理，通常被认为是一种简化的脚本语言，它应用于DOS和Windows系统中。批处理文件的扩展名为bat 或cmd。目前比较常见的批处理包含两类：DOS批处理和PS批处理。
 
+##### 查看命令
+
+遇到不懂的命令，可以通过 /? 查看帮助说明（command_name /?），比如查看 help 命令，可在 cmd 窗口输入：help /?
+
+[![20NQBR.png](https://z3.ax1x.com/2021/06/07/20NQBR.png)](https://imgtu.com/i/20NQBR)
 
 ``` 
 // shell bat || batch
@@ -19,3 +24,11 @@ echo %cd%
 copy "%cd%\**\*.js" "%cd%\project_test\js\"
 
 ```
+
+##### del 删除文件
+
+[![bat_del](https://z3.ax1x.com/2021/06/07/20MISI.png)](https://imgtu.com/i/20MISI)
+
+##### rd 删除目录
+
+[![bat_rd](https://z3.ax1x.com/2021/06/07/20QF7F.png)](https://imgtu.com/i/20QF7F)
