@@ -19,6 +19,11 @@
     >3. source ~/.bash_profile （source 环境变量生效的命令)
     >4. 测试 gitbash 窗口任意目录下执行 mongo
 
+### 查看
+
+>1. 查看 mongoDB 的进程信息：ps -ef|grep mongo
+>2. 状态检测：mongostat 
+
 ### 导出导入
 
     导出：mongoexport

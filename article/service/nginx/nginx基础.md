@@ -2,6 +2,8 @@
 
 # Nginx 基础篇
 
+## Linux Nginx 基础篇
+
 ### 启动 Nginx
 >>1. 直接启动   nginx
 >>2. 命令启动   systemctl start nginx.service
@@ -20,4 +22,11 @@ netstat -tlnp
 lsof -i:port
 netstat -ap | grep port
 
+## Windows Nginx 基础篇
 
+### 启动 Nginx
+>>1. 直接启动   ./nginx.exe 或 start ./nginx
+### 停止 Nginx
+>>1. ./nginx -s stop 或 ./nginx.exe -s stop 或 ./nginx -s quit
+### 重启 Nginx
+>>1. ./nginx -s reload 或 ./nginx.exe -s reload
