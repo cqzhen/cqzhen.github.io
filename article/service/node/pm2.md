@@ -48,7 +48,7 @@ env_production: {
 
     2. --ignore-watch （在问题 1 里面可以试试 --ignore-watch）
 
-### 配置电脑重启自动重启 PM2
+### 配置电脑重启自动重启 PM2 (Linux)
 
     1. pm2 unstartup
 
@@ -57,4 +57,18 @@ env_production: {
     3. pm2 startup
 
     4. 将 3 产生的输出命令复制并贴到输入窗口然后执行
+
+### 配置电脑重启自动重启 PM2 (Windows)
+
+    1. npm install pm2-windows-startup -g
+
+    2. pm2-startup install (nginx root file || Nginx 根目录)
+
+    3. pm2 start path
+
+    4. pm2 save
+
+### 日志 Logs
+
+    1. pm2 的日志默认没有时间，需要配置添加时间字段，log_date_format : "YYYY-MM-DD HH:mm Z",
 

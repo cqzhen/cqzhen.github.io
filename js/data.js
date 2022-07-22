@@ -11,6 +11,14 @@ const blogObj = {
 	},
   blogData: [
 		{
+			title: 'SH unix shell',
+			date: '2022-05-01',
+			type: 6,
+			img: 'https://s3.ax1x.com/2021/03/15/6DZCz6.jpg',
+			text: '介绍 sh 脚本',
+			href: 'article/service/shell/sh'
+		},
+		{
 			title: 'Eslint',
 			date: '2021-03-23',
 			type: 3,
@@ -67,12 +75,14 @@ const blogObj = {
 			href: 'article/system/linux_firewalld'
 		},
 		{
-			title: 'Linux 重启自启动 nginx',
+			// title: 'Linux 重启自启动 nginx',
+			title: '开机自启动 Nginx',
 			date: '2021-01-18',
-			type: 7,
+			type: 6,
 			img: 'https://s2.ax1x.com/2019/11/18/M6s9Xj.jpg',
-			text: 'Linux 重启自启动 nginx',
-			href: 'article/system/linux_nginx'
+			// text: 'Linux 重启自启动 nginx',
+			text: '开机自启动 Nginx',
+			href: 'article/service/nginx/start_nginx'
 		},
 		{
 			title: 'Create npm package',
