@@ -11,6 +11,22 @@ const blogObj = {
 	},
   blogData: [
 		{
+      title: 'Flat To Tree',
+			date: '2022-08-08',
+			type: 3,
+			img: 'https://s2.ax1x.com/2019/11/09/Me2v26.jpg',
+			text: '介绍扁平数据转化为树结构的几种方法',
+			href: 'article/js/dataTransformation/flatTurnTree'
+		},
+		{
+			title: 'Node Next && Express Next',
+			date: '2022-08-08',
+			type: 3,
+			img: 'https://s2.ax1x.com/2019/11/09/Me2v26.jpg',
+			text: '介绍 Next',
+			href: 'article/js/node/next'
+		},
+		{
 			title: 'SH unix shell',
 			date: '2022-05-01',
 			type: 6,
