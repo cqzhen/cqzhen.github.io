@@ -11,6 +11,14 @@ const blogObj = {
 	},
   blogData: [
 		{
+      title: '常用 CSS 效果',
+			date: '2022-11-16',
+			type: 5,
+			img: 'https://s2.ax1x.com/2019/11/09/Me2v26.jpg',
+			text: '记录常用 CSS 效果',
+			href: 'article/css/common'
+		},
+		{
       title: 'Flat To Tree',
 			date: '2022-08-08',
 			type: 3,
